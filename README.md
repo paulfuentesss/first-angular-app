@@ -1,4 +1,13 @@
+# Task Management App
+* add tasks for users
+* mark tasks as complete
+* display list of tasks for each user
+
+<img width="1137" alt="Screenshot 2025-05-27 at 1 04 59 AM" src="https://github.com/user-attachments/assets/f5817e51-3159-4a14-b2e4-82f4c00e2e62" />
+<img width="1178" alt="Screenshot 2025-05-27 at 1 05 09 AM" src="https://github.com/user-attachments/assets/a175a190-8cbd-4218-8d64-82d385286f42" />
+
 # This Project includes Angular Essentials
+
 Components: Core of every Angular app. They're just classes decorated with @Component, and they control how stuff shows up and behaves on the screen.
 
 Communication Between Components:
